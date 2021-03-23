@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListViewSample</string>
+    <string name="header1">header1</string>
+    <string name="header2">header2</string>
+    <string name="footer1">footer1</string>
+    <string name="footer2">footer2</string>
+    <string name="toggle_header_dividers">Toggle header dividers</string>
+    <string name="toggle_footer_dividers">Toggle footer dividers</string>
+</resources>
